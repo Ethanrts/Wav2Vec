@@ -1,0 +1,10 @@
+Unnamed: 0,sentences,label
+0,This device has a cathode inside an anode wire cage.,"Subject: This device 
+Predicate: has a cathode inside an anode wire cage"
+1,This product is almost always produced by the industrialized method.,"Subject: product
+Predicate: is produced
+Adverbial phrase: almost always
+Object: by the industrialized method"
+2,It is named after Edward Singleton Holden.,"Subject: It
+Verb: is named
+Complement: after Edward Singleton Holden"
