@@ -3,7 +3,7 @@ import pandas as pd
 import time
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = ''
 
 # Load the dataset
 df = pd.read_csv('samples.csv')
