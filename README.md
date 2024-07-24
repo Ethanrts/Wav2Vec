@@ -1,0 +1,3 @@
+-Conducted A/B testing on CommonVoice data and evaluated the effectiveness of wav2vec 2.0.
+-Implemented dataset loading, audio feature extraction, and model configuration using pre-trained weights. Overall increased accuracy by 42% by fine-tuning Wav2Vec model and achieved a F1 score of 0.84%.
+-Developed a Python script leveraging Hugging Face's transformers library to fine-tune a Wav2Vec2 model for sequence classification on the Mozilla Common Voice dataset.
